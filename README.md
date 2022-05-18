@@ -16,4 +16,5 @@ Clone repo, open terminal at root of directory, type 'npm install' in terminal t
 <a name="usage"/>
 
 ## Usage
-Open terminal at root of directory, then type 'node app' and answer all the given prompts.
+Open terminal at root of directory, then type 'node app' and answer all the given prompts. <br />
+Then inside of your "dist" folder will be your generated index.html file and a style sheet.
